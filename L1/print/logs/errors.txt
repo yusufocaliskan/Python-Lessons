@@ -1,0 +1,4 @@
+1. Kullanici Sayfaya geldi.
+2. Email adresini yazdi.
+3. Passwod yazdi.
+4. Submit buttona basti.
